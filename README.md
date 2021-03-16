@@ -25,3 +25,5 @@ Several screenshots below outline what the final module looked like:
 ## Classroom
 ![3](https://user-images.githubusercontent.com/62857780/111352232-58355180-865a-11eb-9040-47a6c827c3f0.JPG)
 
+## Modes of Instructions
+![4](https://user-images.githubusercontent.com/62857780/111353265-836c7080-865b-11eb-9f7a-d5d18a9f3d61.JPG)
